@@ -1,3 +1,4 @@
+
 .section .text
 .global uart_init
 uart_init:
